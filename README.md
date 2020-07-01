@@ -1,11 +1,11 @@
 
 
 # Classifying Emotions With Audio
-This project was started as the capstone project for BrainStation's data science diploma program
+This project was started as the capstone project for BrainStation's data science diploma program.
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is to explore techniques that can be used to classify emotions based on audio data, particulaly using recordings of peoples' voices.
+The purpose of this project is to explore techniques that can be used to classify emotions based on audio data, particulaly using recordings of people's voices.
 
 ### Methods Used
 * Feature Extraction (MFCC, GFCC, raw audio)
