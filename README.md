@@ -8,7 +8,7 @@ This project was started as the capstone project for BrainStation's data science
 The purpose of this project is to explore techniques that can be used to classify emotions based on audio data, particulaly using recordings of people's voices.
 
 ### Methods Used
-* Feature Extraction (MFCC, GFCC, raw audio)
+* Feature Extraction (MFCC, GFCC, LFCC, raw audio, etc.)
 * Machine Learning
 * Neural Networks (Dense, Convolutional, Recurrent)
 * Probabilistic Voting
@@ -32,9 +32,7 @@ The purpose of this project is to explore techniques that can be used to classif
 
 ## Next Steps
 
-* Recurrent neural networks
 * More data!
-* Other audio based features such as zero-crossing rate and log frequency cepstral coefficients. 
 
 ## Getting Started
 
